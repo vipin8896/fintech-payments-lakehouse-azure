@@ -239,4 +239,4 @@ The Power BI Net Position was checked against the sum computed directly in Datab
 ## Author
 
 **Vipin Kumar** · Data Analyst · Advanced Excel, Power BI, SQL, Python
-[LinkedIn](www.linkedin.com/in/vipin-kumar8896) · 
+[LinkedIn]www.linkedin.com/in/vipin-kumar8896 · 
